@@ -14,7 +14,7 @@ In order to build tabbed you need the Xlib header files.
 -------
 You can edit the file from `/opt/tabbed-ashin-git/config.def.h`
 
-Patches used are only autohide
+Patches used are hidetabs and icons
 
 ## Running tabbed
 --------------
@@ -26,3 +26,4 @@ Running tabbed with st :
 press Ctrl+Shift+Enter to open another tab in surf or st
 
 See the man page for details.
+

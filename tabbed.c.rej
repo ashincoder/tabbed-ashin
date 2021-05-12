@@ -1,0 +1,10 @@
+--- tabbed.c
++++ tabbed.c
+@@ -171,6 +173,7 @@ static char winid[64];
+ static char **cmd;
+ static char *wmname = "tabbed";
+ static const char *geometry;
++static unsigned long icon[ICON_WIDTH * ICON_HEIGHT + 2];
+ 
+ char *argv0;
+ 
