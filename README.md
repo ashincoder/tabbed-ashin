@@ -2,6 +2,15 @@
 =================================
 tabbed is a simple tabbed X window container.
 
+# patches
+---------
+
+Patches added are in the patches directory:
+
++icon patch
++hidetabs patch
++keyrelease patch(for showing tabs. Pres ctrl-shift to see the tabs)
+
 ## Requirements
 ------------
 In order to build tabbed you need the Xlib header files.
