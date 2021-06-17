@@ -17,7 +17,7 @@ In order to build tabbed you need the Xlib header files.
 
 ## Installation
 ------------
-`yay -S tabbed-ashin-git` or `paru -S tabbed-ashin-git`
+clone and `sudo make install` or add my repository with my builds of packages in https://github.com/ashincoder/ashin-repo and `pacman -Sy tabbed-ashin`
 
 ## Editing
 -------
